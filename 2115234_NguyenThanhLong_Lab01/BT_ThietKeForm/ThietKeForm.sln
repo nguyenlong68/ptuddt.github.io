@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThietKeForm", "TKForm_Bai1_1\ThietKeForm.csproj", "{3F986D0D-A869-4A5E-B989-D5D8C653DCD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F986D0D-A869-4A5E-B989-D5D8C653DCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F986D0D-A869-4A5E-B989-D5D8C653DCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F986D0D-A869-4A5E-B989-D5D8C653DCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F986D0D-A869-4A5E-B989-D5D8C653DCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C3C2C4B-162D-4B76-B40E-669B414463B8}
+	EndGlobalSection
+EndGlobal

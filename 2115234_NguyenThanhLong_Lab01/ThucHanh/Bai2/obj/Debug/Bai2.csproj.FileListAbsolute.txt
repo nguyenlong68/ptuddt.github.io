@@ -1,0 +1,20 @@
+C:\Users\PC432\Downloads\ThucHanh\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\PC432\Downloads\ThucHanh\Bai2\bin\Debug\Bai2.exe
+C:\Users\PC432\Downloads\ThucHanh\Bai2\bin\Debug\Bai2.pdb
+C:\Users\PC432\Downloads\ThucHanh\Bai2\obj\Debug\Bai2.MainForm_2.resources
+C:\Users\PC432\Downloads\ThucHanh\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+C:\Users\PC432\Downloads\ThucHanh\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+C:\Users\PC432\Downloads\ThucHanh\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\PC432\Downloads\ThucHanh\Bai2\obj\Debug\Bai2.exe
+C:\Users\PC432\Downloads\ThucHanh\Bai2\obj\Debug\Bai2.pdb
+C:\Users\my pc\Downloads\New folder\ThucHanh\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\my pc\Downloads\New folder\ThucHanh\Bai2\bin\Debug\Bai2.exe
+C:\Users\my pc\Downloads\New folder\ThucHanh\Bai2\bin\Debug\Bai2.pdb
+C:\Users\my pc\Downloads\New folder\ThucHanh\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\Users\my pc\Downloads\New folder\ThucHanh\Bai2\obj\Debug\Bai2.csproj.SuggestedBindingRedirects.cache
+C:\Users\my pc\Downloads\New folder\ThucHanh\Bai2\obj\Debug\Bai2.MainForm_2.resources
+C:\Users\my pc\Downloads\New folder\ThucHanh\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+C:\Users\my pc\Downloads\New folder\ThucHanh\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+C:\Users\my pc\Downloads\New folder\ThucHanh\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Downloads\New folder\ThucHanh\Bai2\obj\Debug\Bai2.exe
+C:\Users\my pc\Downloads\New folder\ThucHanh\Bai2\obj\Debug\Bai2.pdb

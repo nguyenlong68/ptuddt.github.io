@@ -1,0 +1,10 @@
+C:\Users\PC432\Downloads\ThucHanh\ThucHanh\bin\Debug\ThucHanh.exe.config
+C:\Users\PC432\Downloads\ThucHanh\ThucHanh\bin\Debug\ThucHanh.exe
+C:\Users\PC432\Downloads\ThucHanh\ThucHanh\bin\Debug\ThucHanh.pdb
+C:\Users\PC432\Downloads\ThucHanh\ThucHanh\obj\Debug\ThucHanh.csprojAssemblyReference.cache
+C:\Users\PC432\Downloads\ThucHanh\ThucHanh\obj\Debug\ThucHanh.MainFrom.resources
+C:\Users\PC432\Downloads\ThucHanh\ThucHanh\obj\Debug\ThucHanh.Properties.Resources.resources
+C:\Users\PC432\Downloads\ThucHanh\ThucHanh\obj\Debug\ThucHanh.csproj.GenerateResource.cache
+C:\Users\PC432\Downloads\ThucHanh\ThucHanh\obj\Debug\ThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\PC432\Downloads\ThucHanh\ThucHanh\obj\Debug\ThucHanh.exe
+C:\Users\PC432\Downloads\ThucHanh\ThucHanh\obj\Debug\ThucHanh.pdb
